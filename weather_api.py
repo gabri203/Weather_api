@@ -1,6 +1,6 @@
 import requests #la libreria requests permette fare richieste http ad un server e mi permette interagire facilmente con i servizi web
 
-chiave_api = "47996ffe2aa2b29f1c8ec2e51cd11207" #Chiave api ,la si può richiedere dal sito Open weather
+chiave_api = "" #Chiave api ,la si può richiedere dal sito Open weather
 
 citta = input("Inserisce la città: ")
 
